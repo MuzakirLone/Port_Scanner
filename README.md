@@ -1,4 +1,4 @@
-# Simple Python Port Scanner
+# Python Based Port Scanner
 
 A multithreaded port scanner script built with Python to efficiently scan open ports on a target IP address. Ideal for network administrators and cybersecurity enthusiasts.
 
