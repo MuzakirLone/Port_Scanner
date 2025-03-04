@@ -16,11 +16,11 @@ A multithreaded port scanner script built with Python to efficiently scan open p
     ```
 2. **Navigate to the Directory:**
     ```sh
-    cd port-scanner
+    cd Python_Port_Scanner
     ```
 3. **Run the Script:**
     ```sh
-    python port_scanner.py
+    Python_Port_Scanner.py
     ```
 
 ## Usage
