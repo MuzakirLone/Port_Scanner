@@ -12,7 +12,7 @@ A multithreaded port scanner script built with Python to efficiently scan open p
 ## Installation
 1. **Clone the Repository:** 
     ```sh
-    https://github.com/MuzakirLone/Python_Port_Scanner.git
+    git clone https://github.com/MuzakirLone/Python_Port_Scanner.git
     ```
 2. **Navigate to the Directory:**
     ```sh
