@@ -43,8 +43,6 @@ def main():
             f.write(f"Open ports on {ip}: " + ', '.join(map(str, open_ports)) + "\n")
     else:
         print("No open ports found in the given range.")
-    
-    print("Scan complete. Results saved to scan_results.txt.")
-
+        
 if __name__ == "__main__":
     main()
